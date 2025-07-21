@@ -64,6 +64,6 @@ Data Science & ML Enthusiast
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT License check the file.
 
 Let me know if you want me to generate the `requirements.txt`, Flask/Streamlit starter template, or a pre-made badge layout!
